@@ -1,2 +1,1 @@
- GETDATA MMMMMM
-ppppppppppppppppppppppppppppp
+GetData aaaa
