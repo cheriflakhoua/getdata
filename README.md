@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 
 -->
 
-![Capture d'écran_20221124_034022](https://user-images.githubusercontent.com/49152093/218706388-b54f22fa-7789-4247-aa1b-7386d61cf133.png)
