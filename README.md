@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+-Here are some ideas to get you started: text in red
 
 - 🔭 I’m currently stading in ... Institut superieur d'informatique du kef
 - 🌱 I’m currently learning ... Kotlin
