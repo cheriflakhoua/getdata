@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=F7L5NkkbwtU&ab_channel=%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9)
 
 
-https://user-images.githubusercontent.com/49152093/218719893-b6aff638-c574-4afc-aa3c-9d3a158ce1e5.mp4
+[![Watch the video](https://user-images.githubusercontent.com/49152093/218719893-b6aff638-c574-4afc-aa3c-9d3a158ce1e5.mp4)
