@@ -1,4 +1,4 @@
-## COURS HTML 
+## COURS HTML //red
 Dans son cœur, HTML est un langage vraiment simple, composé d'éléments appliquables à des fragments de texte dans un document pour leur donner un sens différent (est-ce un paragraphe ? est-ce une liste à puces ? est-ce une partie de tableau ?), pour structurer un document en sections logiques (a‑t‑il un en-tête ? est-il sur trois colonnes ? a-t-il un menu de navigation ?) et pour intégrer du contenu comme images ou vidéos dans une page. Ce module est une introduction aux deux premiers concepts ; il présente les notions fondamentales et la syntaxe à connaître pour comprendre le HTML.
 
 ### Prérequis
